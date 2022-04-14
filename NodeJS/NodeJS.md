@@ -10,6 +10,7 @@
 - [Require vs import](https://blog.bitsrc.io/javascript-require-vs-import-47827a361b77)
 - [JS recomendation(clean code)](https://github.com/stackNavigator/clean-code-javascript-ua)
 - [HTML/JS Specification](https://html.spec.whatwg.org/)
+- [MDN JavaScript Doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ## Library
 - Fastify.js - [The fastest node.js web framework](https://habr.com/ru/post/555668/)
 - PM2 - [PM2 is a production process manager for Node.js applications ](https://github.com/Unitech/pm2)
