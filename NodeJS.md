@@ -17,3 +17,26 @@
 - systemd - [Init vs Systemd: What is an init daemon?](https://uace.github.io/learning/init-vs-systemd-what-is-an-init-daemon)
 ## Typescript
 - [Doc](https://www.typescriptlang.org/docs/)
+
+#Requirements
+- ES6+
+- Event Loop
+- EventEmmiter
+- Buffer
+- Promises
+- Async/Await
+- parallelism
+- Stream
+- npm
+- MongoDB
+- Express.js
+- RabbitMQ
+- WebSocket
+- RESTful service design
+- API design
+- best practices for building resilient and maintainable distributed systems
+- Mocha
+- Chai
+- Supertest
+
+
