@@ -1,0 +1,21 @@
+[NodeJS](NodeJS.md)
+# Requirements
+- ES6+
+- Event Loop
+- EventEmmiter
+- Buffer
+- Promises
+- Async/Await
+- parallelism
+- Stream
+- npm
+- MongoDB
+- Express.js
+- RabbitMQ
+- WebSocket
+- RESTful service design
+- API design
+- best practices for building resilient and maintainable distributed systems
+- Mocha
+- Chai
+- Supertest
