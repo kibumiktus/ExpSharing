@@ -4,18 +4,21 @@
 - Event Loop
 - EventEmmiter
 - Buffer
+- Stream
 - Promises
 - Async/Await
 - parallelism
-- Stream
+- Understanding of JS inheritance and prototypes;
 - npm
-- MongoDB
-- Express.js
-- RabbitMQ
-- WebSocket
 - RESTful service design
 - API design
 - best practices for building resilient and maintainable distributed systems
+
+## Additional technologies
+- MongoDB
+- RabbitMQ
+- WebSocket
+
+## Unit Testing
+- Jest
 - Mocha
-- Chai
-- Supertest
