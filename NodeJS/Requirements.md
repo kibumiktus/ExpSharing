@@ -9,6 +9,7 @@
 - Async/Await
 - parallelism
 - Understanding of JS inheritance and prototypes;
+- Localizations
 - npm
 - RESTful service design
 - API design
