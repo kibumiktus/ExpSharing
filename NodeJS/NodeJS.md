@@ -13,6 +13,8 @@
 - [HTML/JS Specification](https://html.spec.whatwg.org/)
 - [MDN JavaScript Doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ## Library
+- ExpressJs
+- PassportJS - [Passport is authentication middleware for Node.js](http://toon.io/understanding-passportjs-authentication-flow/)
 - Fastify.js - [The fastest node.js web framework](https://habr.com/ru/post/555668/)
 - PM2 - [PM2 is a production process manager for Node.js applications ](https://github.com/Unitech/pm2)
 - Bull - [Job manager](https://www.npmjs.com/package/bull)
