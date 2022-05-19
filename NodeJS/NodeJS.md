@@ -19,7 +19,5 @@
 - PM2 - [PM2 is a production process manager for Node.js applications ](https://github.com/Unitech/pm2)
 - Bull - [Job manager](https://www.npmjs.com/package/bull)
 - Agenda - [Job manager](https://www.npmjs.com/package/agenda)
-## Linux
-- systemd - [Init vs Systemd: What is an init daemon?](https://uace.github.io/learning/init-vs-systemd-what-is-an-init-daemon)
 ## Typescript
 - [Doc](https://www.typescriptlang.org/docs/)
