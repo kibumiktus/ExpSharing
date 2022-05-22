@@ -13,6 +13,7 @@
 - [HTML/JS Specification](https://html.spec.whatwg.org/)
 - [MDN JavaScript Doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ## Library
+- https://openbase.com/ - [Compare open-source packages with powerful metrics and user reviews](https://openbase.com/)
 - ExpressJs
 - PassportJS - [Passport is authentication middleware for Node.js](http://toon.io/understanding-passportjs-authentication-flow/)
 - Fastify.js - [The fastest node.js web framework](https://habr.com/ru/post/555668/)
