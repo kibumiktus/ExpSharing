@@ -1,4 +1,4 @@
-[Home](README.md)
+[Home](../README.md)
 # NodeJS
 - [Requirements](Requirements.md)
 - [Introduction to Node.js](https://nodejs.dev/learn)

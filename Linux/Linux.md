@@ -1,4 +1,4 @@
-[Home](README.md)
+[Home](../README.md)
 # Linux
 - systemd - [Init vs Systemd: What is an init daemon?](https://uace.github.io/learning/init-vs-systemd-what-is-an-init-daemon)
 ## Software
