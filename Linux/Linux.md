@@ -7,5 +7,5 @@
 ## Tips
 - run GUI application in background
 ```bash
-$ firefox </dev/null &>/dev/null &
+$ vlc </dev/null &>/dev/null &
 ```
